@@ -1,0 +1,32 @@
+body {
+    margin: 40px auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #444;
+    background: #EEEEEE;
+    padding: 0 10px
+}
+
+h1,h2,h3 {
+    line-height: 1.2
+}
+
+canvas {
+    margin-top: 50px;
+    border: dimgrey solid ;
+    padding: 10px;
+}
+.home {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    font-family: Impact, sans-serif;
+    font-size: large;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+    border-radius: 50%;
+    border: #444 solid 3px;
+}
